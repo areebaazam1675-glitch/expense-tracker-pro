@@ -41,7 +41,6 @@ smart_expense_tracker_pro/
 ├── tracker.py            # ExpenseTracker class — all business logic
 ├── ui.py                  # Console presentation: colors, tables, banners
 ├── utils.py                # Input validation & helper functions
-├── requirements.txt         # Optional dependencies
 ├── README.md                 # This file
 └── data/
     └── expenses.json          # Auto-created — stores your saved data
